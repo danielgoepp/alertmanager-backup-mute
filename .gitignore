@@ -208,3 +208,6 @@ ehthumbs_vista.db
 
 # VS Code Workspace
 *.code-workspace
+
+# Claude Code
+.claude/
